@@ -15,6 +15,7 @@
 		2FC76DAC2C3F32FF00FA2A57 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC76DAB2C3F32FF00FA2A57 /* AddView.swift */; };
 		2FC76DAF2C3F3B1C00FA2A57 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC76DAE2C3F3B1C00FA2A57 /* ItemModel.swift */; };
 		2FC76DB22C3FC5CE00FA2A57 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC76DB12C3FC5CE00FA2A57 /* ListViewModel.swift */; };
+		2FC76DB42C3FD56200FA2A57 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2FC76DB32C3FD56200FA2A57 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		2FC76DAB2C3F32FF00FA2A57 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		2FC76DAE2C3F3B1C00FA2A57 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		2FC76DB12C3FC5CE00FA2A57 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
+		2FC76DB32C3FD56200FA2A57 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 		2FC76D8C2C3F2DDF00FA2A57 = {
 			isa = PBXGroup;
 			children = (
+				2FC76DB32C3FD56200FA2A57 /* .gitignore */,
 				2FC76D972C3F2DDF00FA2A57 /* TodoList */,
 				2FC76D962C3F2DDF00FA2A57 /* Products */,
 			);
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FC76DA02C3F2DE100FA2A57 /* Preview Assets.xcassets in Resources */,
+				2FC76DB42C3FD56200FA2A57 /* .gitignore in Resources */,
 				2FC76D9D2C3F2DE100FA2A57 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
